@@ -1,4 +1,4 @@
-package com.searching.Problems;
+package com.searching.LinearSearchProblems;
 
 
 // https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/

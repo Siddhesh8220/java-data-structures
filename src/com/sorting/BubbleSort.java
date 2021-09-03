@@ -14,7 +14,7 @@ public class BubbleSort {
                     swap = true;
                 }
             }
-            if(!swap){  //optimised bubble sort
+            if(swap == false){  //optimised bubble sort
                 System.out.println("Swap condition hit @"+ i +" th iteration");
                 return;
             }
