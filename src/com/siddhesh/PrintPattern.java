@@ -3,7 +3,6 @@ package com.siddhesh;
 public class PrintPattern {
     public static void main(String[] args) {
         /*
-
          */
         int n=7;
         int i;
